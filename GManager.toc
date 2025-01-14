@@ -1,0 +1,11 @@
+## Interface: 30300
+## Version: 1.0.0
+## Title: Guild Manager
+## Notes: Guild Management Solution
+## Author: Agset
+## OptionalDeps: Ace3
+## SavedVariables: GManagerDB
+
+
+
+CORE.lua
